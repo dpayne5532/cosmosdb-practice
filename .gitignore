@@ -1,0 +1,9 @@
+# Backend
+backend/**/node_modules
+backend/**/local.settings.json
+
+# macOS
+.DS_Store
+
+# Xcode
+ios/**/DerivedData
